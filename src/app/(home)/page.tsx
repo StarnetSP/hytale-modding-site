@@ -17,7 +17,7 @@ export default function HomePage() {
         </h1>
         <div className="w-24 h-1 bg-yellow-600 mx-auto" />
         <p className="text-xl md:text-2xl text-slate-600 dark:text-slate-400 font-light leading-relaxed max-w-2xl mx-auto">
-          Welcome to the Hytale Modding!
+          Welcome to Hytale Modding!
           This is an unofficial community for modding Hytale, providing guides, documentation, and resources.
         </p>
         <div className="flex flex-wrap items-center justify-center gap-4 pt-4">
